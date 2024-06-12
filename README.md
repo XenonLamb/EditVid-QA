@@ -3,7 +3,10 @@
 
 ## Data Preparation
 ### Parse and Download public videos for EditVid-QA-Funny/Meme/Game 
-
+Funny/Meme/Game videos can be downloaded from TikTok publicly. In each test sample of the test_qa json, the `video_name` field is defined in `<tiktok_video_id>.mp4` format. To form the public URL of the corresponding video, simply concatenate as
+```
+https://www.tiktok.com/@default/video/<tiktok_video_id>
+```
 ### Download edited videos for EditVid-QA-Edit
 Edited Videos can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1EtPedtzijk4vW0CuemqFUhdv-u3kp1ie?usp=sharing)
 
