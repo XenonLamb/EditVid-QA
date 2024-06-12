@@ -8,7 +8,7 @@ Funny/Meme/Game videos can be downloaded from TikTok publicly. In each test samp
 https://www.tiktok.com/@default/video/<tiktok_video_id>
 ```
 ### Download edited videos for EditVid-QA-Edit
-Edited Videos can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1EtPedtzijk4vW0CuemqFUhdv-u3kp1ie?usp=sharing)
+Edited Videos can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1jV_dKIgeh-sJTn-RnsdcgUiErZ2be-c8?usp=sharing)
 
 ## Evaluation
 We provide an example python script for evaluating model predictions on EditVid-QA in MSVD-QA style. For example, you can evaluate by
