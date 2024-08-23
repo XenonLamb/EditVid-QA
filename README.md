@@ -36,3 +36,12 @@ This work is licensed under a
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+
+## Disclaimer
+Your access to and use of this dataset are at your own risk. We do not guarantee the accuracy of this dataset. The dataset is provided "as is" and we make no warranty or representation to you with respect to it and we expressly disclaim, and hereby expressly waive, all warranties, express, implied, statutory or otherwise. This includes, without limitation, warranties of quality, performance, merchantability or fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
+
+In no event will we be liable to you on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, coset, expenses, or damages arising out of this public license or use of the licensed material.
+
+The disclaimer of warranties and limitation of liability probided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer of all liability.
+
