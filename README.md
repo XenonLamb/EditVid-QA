@@ -1,5 +1,16 @@
-# EditVid-QA Dataset
+# [EditVid-QA Dataset](https://arxiv.org/pdf/2406.10484v1)
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+[Beyond Raw Videos: Understanding Edited Videos
+with Large Multimodal Model](https://arxiv.org/pdf/2406.10484v1):
+```
+@article{xu2024beyond,
+  title={Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model},
+  author={Xu, Lu and Zhu, Sijie and Li, Chunyuan and Kuo, Chia-Wen and Chen, Fan and Wang, Xinyao and Chen, Guang and Du, Dawei and Yuan, Ye and Wen, Longyin},
+  journal={arXiv preprint arXiv:2406.10484},
+  year={2024}
+}
+```
 
 ## Data Preparation
 > **_NOTE:_**  Due to LFS compatibility of anonymous repos, the annotation json files can also be downloaded from [Google Drive](https://drive.google.com/drive/folders/1jV_dKIgeh-sJTn-RnsdcgUiErZ2be-c8?usp=sharing). They will be directly downloadable from GitHub after this repo gets de-anonymized.
