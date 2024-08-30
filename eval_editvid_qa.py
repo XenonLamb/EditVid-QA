@@ -6,14 +6,6 @@ import ast
 from multiprocessing.pool import Pool
 from tqdm import tqdm
 import time
-from openai import AzureOpenAI
-# gets the API Key from environment variable AZURE_OPENAI_API_KEY
-headers={
-        "security-switch": json.dumps({"pre": "open", "post-stream": "open", "post-not-stream": "close"}),
-        "scene": "action_ai_research"
-}
-
-
 
 def parse_args():
     parser = argparse.ArgumentParser(description="question-answer-generation-using-gpt-3")
