@@ -13,7 +13,6 @@ with Large Multimodal Model](https://arxiv.org/pdf/2406.10484v1):
 ```
 
 ## Data Preparation
-> **_NOTE:_**  Due to LFS compatibility of anonymous repos, the annotation json files can also be downloaded from [Google Drive](https://drive.google.com/drive/folders/1jV_dKIgeh-sJTn-RnsdcgUiErZ2be-c8?usp=sharing). They will be directly downloadable from GitHub after this repo gets de-anonymized.
 
 ### Parse and Download public videos for EditVid-QA-Funny/Meme/Game 
 Funny/Meme/Game videos can be downloaded from TikTok publicly. In each test sample of the test_qa json, the `video_name` field is defined in `<tiktok_video_id>.mp4` format. To form the public URL of the corresponding video, simply concatenate as
