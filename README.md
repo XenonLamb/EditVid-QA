@@ -21,8 +21,8 @@ https://www.tiktok.com/@default/video/<tiktok_video_id>
 ```
 
 To download in batch, you can first install the download tool following [tiktok-downloader](https://github.com/n0l3r/tiktok-downloader/tree/main/cli), then run [download_tt.sh](https://github.com/XenonLamb/EditVid-QA/blob/main/download_tt.sh).
-### Download edited videos for EditVid-QA-Edit
-Edited Videos can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1jV_dKIgeh-sJTn-RnsdcgUiErZ2be-c8?usp=sharing)
+### Download edited videos for EditVid-QA-Effect
+Videos of "Effect" category can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1jV_dKIgeh-sJTn-RnsdcgUiErZ2be-c8?usp=sharing)
 
 ## Evaluation
 We provide an example python script for evaluating model predictions on EditVid-QA in MSVD-QA style. For example, you can evaluate by
