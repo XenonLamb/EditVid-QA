@@ -1,2 +1,8 @@
 *.md filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+test_qa_meme.json filter=lfs diff=lfs merge=lfs -text
+tiktok_training.json filter=lfs diff=lfs merge=lfs -text
+train.json filter=lfs diff=lfs merge=lfs -text
+test_qa_edit.json filter=lfs diff=lfs merge=lfs -text
+test_qa_funny.json filter=lfs diff=lfs merge=lfs -text
+test_qa_game.json filter=lfs diff=lfs merge=lfs -text
